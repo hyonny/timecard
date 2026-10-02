@@ -92,3 +92,7 @@ swift build   # デバッグビルド
 | `scripts/bundle.sh` | `.app`の組み立てと署名、インストール |
 
 打刻の結果とエラーは`~/Library/Logs/Timecard.log`に記録されます。
+
+## ライセンス
+
+[MIT License](LICENSE)で公開しています。
